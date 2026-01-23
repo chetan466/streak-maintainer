@@ -1,2 +1,1 @@
-# streak-maintainer
-# Hey iam chetan prajapat
+# streak-maintainer #
